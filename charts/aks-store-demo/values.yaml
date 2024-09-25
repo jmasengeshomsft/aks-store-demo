@@ -14,7 +14,7 @@ managedIdentityName: "" # name of the Azure AD identity to use for the service a
 managedIdentityClientId: "" # client ID of the managed identity to use for the service account
 
 aiService:
-  # Specifies whether a ai-service deployment and service should be created
+  # Specifies whether a ai-service deployment and service should be created.
   create: false
   modelDeploymentName: ""
   openAiEndpoint: ""
